@@ -1,4 +1,7 @@
 # OCR-Based Image Processing and Text Recognition System
+# Image Preprocessing Image
+
+![Screenshot (67)](https://github.com/user-attachments/assets/d6982e0b-2603-47d3-8aea-21ffc89e80a0)
 
 This project implements an advanced system for extracting and mapping text from images using Optical Character Recognition (OCR). It preprocesses images to enhance text readability, performs OCR using the TrOCR model, maps detected text to a specific format, and communicates results to a remote server via REST API and socket programming. The system is designed for industrial applications requiring reliable text extraction.
 
